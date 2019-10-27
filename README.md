@@ -12,10 +12,12 @@ Builds.db is a portable file and can be shared and moved from PC to PC as long a
 
 # Installation
 
-1. Download the release and unzip it to the desired location.  
+1. Download the [Release](https://github.com/MissJazy/gw2-build-bank/releases) and unzip it to the desired location.  
 2. Launch the program using the "Build Bank.exe" file.
 
 # Uninstalling
 
 1. Delete the unzipped folder
 2. Go to Documents and delete "Builds.db"
+
+ 
