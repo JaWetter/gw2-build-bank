@@ -1,3 +1,7 @@
+![Screenshot of Build Bank](https://i.imgur.com/y2bfMzt.png)
+
+
+
 # gw2-build-bank
 
 A simple program to store Guild Wars 2 builds, using a SQlite database.
